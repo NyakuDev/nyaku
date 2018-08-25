@@ -1,5 +1,5 @@
-# nyaku
-##### WARNING: When using 'nyaku_webembed', keep in mind this does show your webhook links to the public. We are working on a fix for this, but it may not be as user-friendly. SQL support is planned for the future.
+# phphook
+##### WARNING: This repo is no longer supported, and as such, use it with caution. 
 
 ## What is Nyaku?
 Nyaku is a framework written in PHP that allows for Discord server owners to better moderate their server.
